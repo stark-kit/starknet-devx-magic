@@ -1,0 +1,39 @@
+[
+{
+  "name": "Louis Guthmann",
+  "handle": "@GuthL",
+  "description": "Head of Developer Relations @StarkWareLtd",
+  "imageUrl": "https://unavatar.io/twitter/GuthL"
+},
+{
+  "name": "Eli Ben-Sasson",
+  "handle": "@EliBenSasson",
+  "description": "Co-founder and President @StarkWareLtd",
+  "imageUrl": "https://unavatar.io/twitter/EliBenSasson"
+},
+{
+  "name": "Starknet",
+  "handle": "@Starknet",
+  "description": "Official Starknet account",
+  "imageUrl": "https://unavatar.io/twitter/Starknet"
+},
+{
+  "name": "StarkWare",
+  "handle": "@StarkWareLtd",
+  "description": "Creators of STARK tech",
+  "imageUrl": "https://unavatar.io/twitter/StarkWareLtd"
+},
+{
+  "name": "Starknet Ecosystem",
+  "handle": "@StarknetEco",
+  "description": "Starknet Ecosystem updates",
+  "imageUrl": "https://unavatar.io/twitter/StarknetEco"
+},
+{
+  "name": "Starknet Foundation",
+  "handle": "@StarknetFndn",
+  "description": "Official Starknet Foundation account",
+  "imageUrl": "https://unavatar.io/twitter/StarknetFndn"
+}
+]
+

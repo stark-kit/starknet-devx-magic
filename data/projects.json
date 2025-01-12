@@ -1,0 +1,57 @@
+[
+{
+  "title": "Awesome Starknet",
+  "description": "A curated list of awesome Starknet resources, libraries, tools and more",
+  "url": "https://github.com/keep-starknet-strange/awesome-starknet",
+  "imageUrl": "https://github.com/keep-starknet-strange/awesome-starknet/blob/master/assets/starknet.png?raw=true"
+},
+{
+  "title": "Alexandria",
+  "description": "Collection of Cairo utilities and libraries for Starknet",
+  "url": "https://github.com/keep-starknet-strange/alexandria",
+  "imageUrl": "https://github.com/keep-starknet-strange/alexandria/blob/main/docs/images/logo.png?raw=true"
+},
+{
+  "title": "Unruggable Meme",
+  "description": "The first unruggable meme token on Starknet",
+  "url": "https://github.com/keep-starknet-strange/unruggable.meme",
+  "imageUrl": "https://github.com/keep-starknet-strange/unruggable.meme/blob/main/assets/logo/logo.png?raw=true"
+},
+{
+  "title": "Gomu Gomu no Gatling",
+  "description": "A blazingly fast Starknet RPC client",
+  "url": "https://github.com/keep-starknet-strange/gomu-gomu-no-gatling",
+  "imageUrl": "https://github.com/keep-starknet-strange/gomu-gomu-no-gatling/blob/main/docs/images/gomu-gomu-no-bg.png?raw=true"
+},
+{
+  "title": "Shinigami",
+  "description": "A Starknet full node implementation written in Rust",
+  "url": "https://github.com/keep-starknet-strange/shinigami",
+  "imageUrl": "https://github.com/keep-starknet-strange/shinigami/raw/main/resources/shinigami-logo/shinigami.png"
+},
+{
+  "title": "Beerus",
+  "description": "Beerus is a Starknet light client",
+  "url": "https://github.com/keep-starknet-strange/beerus",
+  "imageUrl": "https://github.com/eigerco/beerus/blob/main/etc/beerus.png?raw=true"
+},
+{
+  "title": "Garaga",
+  "description": "Garaga is a Starknet OS kernel written in Rust",
+  "url": "https://github.com/keep-starknet-strange/garaga",
+  "imageUrl": "https://github.com/keep-starknet-strange/garaga/raw/main/docs/images/logo.png"
+},
+{
+  "title": "Starknet Snap",
+  "description": "A MetaMask Snap for Starknet",
+  "url": "https://github.com/Consensys/starknet-snap",
+  "imageUrl": "https://github.com/keep-starknet-strange/awesome-starknet/blob/master/assets/starknet.png?raw=true"
+},
+{
+  "title": "Satoru",
+  "description": "Satoru is a Starknet block explorer",
+  "url": "https://github.com/keep-starknet-strange/satoru",
+  "imageUrl": "https://github.com/keep-starknet-strange/satoru/raw/main/docs/images/logo.png"
+}
+]
+
